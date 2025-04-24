@@ -4,7 +4,9 @@
     "description" : "Extension that help you learn German by slowly converting your webpages content to german",
     "version" : "0.1.0",
     "permissions" : [
-        "storage"
+        "storage",
+        "scripting",
+        "tabs"
     ],
     "content_scripts" : [
         {
